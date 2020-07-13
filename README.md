@@ -5,4 +5,4 @@ I like [Language models](https://en.wikipedia.org/wiki/Language_model), I mean a
 I am working in parallel on several tracks of NLP, including, but not limited to Language Modeling, Information Extraction, and Conversational AI. At the same time, 
 I am doing my PhD at [Koç University](https://www.ku.edu.tr/), here is my empty Google Scholar [profile](https://scholar.google.com/citations?user=j5mgvE4AAAAJ&hl=en&authuser=1) 😄
 
-I am a member of the newly established, [KUIS AI Lab](https://ai.ku.edu.tr/), at the same time I am working as a project engineer at the [EMW project](https://emw.ku.edu.tr/?staff=ali-safaya).
+I am a member of [KUIS AI Lab](https://ai.ku.edu.tr/) at [Koç University](https://www.ku.edu.tr/), at the same time I am working as a project engineer at the [EMW project](https://emw.ku.edu.tr/?staff=ali-safaya).
