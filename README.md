@@ -1,4 +1,4 @@
-### مرحبا / Hi !
+### مرحبا / Hi 👋🏼 !
 
 I like [Language Models](https://en.wikipedia.org/wiki/Language_model), I mean all of them, not just [Transformers](http://jalammar.github.io/illustrated-transformer/). I am interested in [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) and [Computational Linguistics](https://en.wikipedia.org/wiki/Computational_linguistics), they are different somehow! 
 
