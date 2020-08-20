@@ -1,4 +1,4 @@
-<h3 align="center">مرحبا / Hi  👋🏼  !</h3>
+<h3 align="center">  Merhaba / مرحبا / Hi  👋🏼  !</h3>
 
 I like [Language models](https://en.wikipedia.org/wiki/Language_model), I mean all of them, not just [Transformers](http://jalammar.github.io/illustrated-transformer/). I am interested in [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) and [Computational Linguistics](https://en.wikipedia.org/wiki/Computational_linguistics), they are [different](https://www.quora.com/How-is-computational-linguistics-different-from-natural-language-processing?share=1)!
 
