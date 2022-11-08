@@ -7,14 +7,14 @@ I like [Language models](https://en.wikipedia.org/wiki/Language_model), I mean a
 I am working in parallel on several tracks of NLP, including, but not limited to Language Modeling, Story Understanding. I am doing my PhD on Story Understanding at [Koç University AI Center](https://ai.ku.edu.tr/) under the supervision of [Prof.Dr. Deniz Yuret](http://www.denizyuret.com/).
 
 <br />
-
+<!-- 
 
 ### Blog posts
 
 - [BERT-CNN for Offensive Speech Identification](https://ai.ku.edu.tr/bert-cnn/)
 - [Training ALBERT LM for Arabic](https://ai.ku.edu.tr/arabic-albert/)
 
-
+ -->
 ### Connect with me
 
 [<img align="left" alt="Ali Safaya | Twitter" width="35px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
