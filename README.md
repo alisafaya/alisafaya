@@ -4,7 +4,7 @@
 
 I like [Language models](https://en.wikipedia.org/wiki/Language_model), I mean all of them, not just [Transformers](http://jalammar.github.io/illustrated-transformer/). I am interested in [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), especially, [Natural Language Understanding](https://en.wikipedia.org/wiki/Natural-language_understanding), and [Machine Comprehension](https://en.wikipedia.org/wiki/Reading_comprehension).
 
-I am working in parallel on several tracks of NLP, including, but not limited to Language Modeling, Story Understanding. I am doing my PhD on Story Understanding at [Koç University AI Center](https://ai.ku.edu.tr/) under the supervision of [Prof.Dr. Deniz Yuret](http://www.denizyuret.com/).
+I am working in parallel on several tracks of NLP, including, but not limited to Language Modeling, Story Understanding. I am doing my PhD on Long Document Understanding at [Koç University](https://ku.edu.tr/) under the supervision of [Prof.Dr. Deniz Yuret](http://www.denizyuret.com/).
 
 <br />
 <!-- 
